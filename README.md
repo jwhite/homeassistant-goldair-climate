@@ -1,5 +1,13 @@
 # Home Assistant Goldair WiFi Climate component
 
+**Fork Information**
+
+This is a fork of the nikrolls climate componenet for goldair.
+
+I have a fan that is new and not supported or detected correctly.
+
+
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=nikrolls_homeassistant-goldair-climate&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=nikrolls_homeassistant-goldair-climate)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=nikrolls_homeassistant-goldair-climate&metric=security_rating)](https://sonarcloud.io/dashboard?id=nikrolls_homeassistant-goldair-climate)
